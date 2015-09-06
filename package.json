@@ -28,6 +28,9 @@
   "devDependencies": {
     "connect-livereload": "^0.5.3",
     "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-open": "^1.0.0",
+    "run-sequence": "^1.1.2",
     "tiny-lr": "^0.1.6"
   }
 }
