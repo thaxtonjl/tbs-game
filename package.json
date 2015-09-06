@@ -1,0 +1,33 @@
+{
+  "name": "tbs-game",
+  "version": "0.0.0",
+  "description": "Turn-based strategy game",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaxtonjl/tbs-game.git"
+  },
+  "keywords": [
+    "turn-based",
+    "strategy",
+    "game",
+    "html",
+    "javascript"
+  ],
+  "author": "Josh Thaxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thaxtonjl/tbs-game/issues"
+  },
+  "homepage": "https://github.com/thaxtonjl/tbs-game#readme",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "connect-livereload": "^0.5.3",
+    "express": "^4.13.3",
+    "tiny-lr": "^0.1.6"
+  }
+}
